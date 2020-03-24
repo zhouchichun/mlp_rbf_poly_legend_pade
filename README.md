@@ -46,4 +46,6 @@ self.target=tf.placeholder(tf.float64, [None, 1])   #通过自己建立placehold
 self.loss= (P.b-P.a)*tf.reduce_mean((self.target-self.y.value)**2)#自定义loss函数，自定义任务
 
 ```
-
+# 注意
+- log文件
+- ckpt保存，如果修改了模型结构，需要清除对应的ckpt文件下的模型参数文件。
