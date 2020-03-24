@@ -1,0 +1,261 @@
+2020-02-27 23:26:41,934 - Pade - INFO - now initialize the net with para:
+2020-02-27 23:26:41,934 - Pade - INFO - clip
+2020-02-27 23:26:41,934 - Pade - INFO - 0.05
+2020-02-27 23:26:41,934 - Pade - INFO - -----------------------------
+2020-02-27 23:26:41,934 - Pade - INFO - CKPT
+2020-02-27 23:26:41,934 - Pade - INFO - ckpt
+2020-02-27 23:26:41,934 - Pade - INFO - -----------------------------
+2020-02-27 23:26:41,934 - Pade - INFO - BATCHSIZE
+2020-02-27 23:26:41,934 - Pade - INFO - 1000
+2020-02-27 23:26:41,934 - Pade - INFO - -----------------------------
+2020-02-27 23:26:41,934 - Pade - INFO - MAX_ITER
+2020-02-27 23:26:41,934 - Pade - INFO - 5000
+2020-02-27 23:26:41,935 - Pade - INFO - -----------------------------
+2020-02-27 23:26:41,935 - Pade - INFO - STEP_EACH_ITER
+2020-02-27 23:26:41,935 - Pade - INFO - 500
+2020-02-27 23:26:41,935 - Pade - INFO - -----------------------------
+2020-02-27 23:26:41,935 - Pade - INFO - STEP_SHOW
+2020-02-27 23:26:41,935 - Pade - INFO - 200
+2020-02-27 23:26:41,935 - Pade - INFO - -----------------------------
+2020-02-27 23:26:41,935 - Pade - INFO - EPOCH_SAVE
+2020-02-27 23:26:41,935 - Pade - INFO - 2
+2020-02-27 23:26:41,935 - Pade - INFO - -----------------------------
+2020-02-27 23:26:41,935 - Pade - INFO - LEARNING_RATE
+2020-02-27 23:26:41,935 - Pade - INFO - 0.0005
+2020-02-27 23:26:41,935 - Pade - INFO - -----------------------------
+2020-02-27 23:26:41,935 - Pade - INFO - bound_weight
+2020-02-27 23:26:41,935 - Pade - INFO - 1
+2020-02-27 23:26:41,935 - Pade - INFO - -----------------------------
+2020-02-27 23:26:41,935 - Pade - INFO - step_unbound
+2020-02-27 23:26:41,935 - Pade - INFO - 5
+2020-02-27 23:26:41,935 - Pade - INFO - -----------------------------
+2020-02-27 23:26:41,935 - Pade - INFO - decay
+2020-02-27 23:26:41,935 - Pade - INFO - False
+2020-02-27 23:26:41,935 - Pade - INFO - -----------------------------
+2020-02-27 23:26:41,935 - Pade - INFO - test_line
+2020-02-27 23:26:41,936 - Pade - INFO - False
+2020-02-27 23:26:41,936 - Pade - INFO - -----------------------------
+2020-02-27 23:26:41,936 - Pade - INFO - is_plot
+2020-02-27 23:26:41,936 - Pade - INFO - False
+2020-02-27 23:26:41,936 - Pade - INFO - -----------------------------
+2020-02-27 23:26:41,956 - Pade - INFO - openning sess
+2020-02-27 23:26:43,055 - Pade - INFO - building net
+2020-02-27 23:26:44,507 - Pade - INFO - building opt
+2020-02-27 23:26:44,685 - Pade - INFO - net initializing
+2020-02-27 23:26:44,685 - Pade - INFO - train epoch 0 of total 5000 epoches
+2020-02-27 23:26:44,864 - Pade - ERROR - 梯度爆了,在0步的时候
+2020-03-24 09:34:17,662 - Pade - INFO - now initialize the net with para:
+2020-03-24 09:34:17,662 - Pade - INFO - clip
+2020-03-24 09:34:17,662 - Pade - INFO - False
+2020-03-24 09:34:17,662 - Pade - INFO - -----------------------------
+2020-03-24 09:34:17,663 - Pade - INFO - CKPT
+2020-03-24 09:34:17,663 - Pade - INFO - ckpt
+2020-03-24 09:34:17,663 - Pade - INFO - -----------------------------
+2020-03-24 09:34:17,663 - Pade - INFO - BATCHSIZE
+2020-03-24 09:34:17,663 - Pade - INFO - 1000
+2020-03-24 09:34:17,663 - Pade - INFO - -----------------------------
+2020-03-24 09:34:17,663 - Pade - INFO - MAX_ITER
+2020-03-24 09:34:17,663 - Pade - INFO - 5000
+2020-03-24 09:34:17,663 - Pade - INFO - -----------------------------
+2020-03-24 09:34:17,664 - Pade - INFO - STEP_EACH_ITER
+2020-03-24 09:34:17,664 - Pade - INFO - 500
+2020-03-24 09:34:17,664 - Pade - INFO - -----------------------------
+2020-03-24 09:34:17,664 - Pade - INFO - STEP_SHOW
+2020-03-24 09:34:17,664 - Pade - INFO - 200
+2020-03-24 09:34:17,664 - Pade - INFO - -----------------------------
+2020-03-24 09:34:17,664 - Pade - INFO - EPOCH_SAVE
+2020-03-24 09:34:17,664 - Pade - INFO - 20
+2020-03-24 09:34:17,664 - Pade - INFO - -----------------------------
+2020-03-24 09:34:17,664 - Pade - INFO - LEARNING_RATE
+2020-03-24 09:34:17,664 - Pade - INFO - 8e-05
+2020-03-24 09:34:17,665 - Pade - INFO - -----------------------------
+2020-03-24 09:34:17,665 - Pade - INFO - bound_weight
+2020-03-24 09:34:17,665 - Pade - INFO - 1
+2020-03-24 09:34:17,665 - Pade - INFO - -----------------------------
+2020-03-24 09:34:17,665 - Pade - INFO - step_unbound
+2020-03-24 09:34:17,665 - Pade - INFO - 5
+2020-03-24 09:34:17,665 - Pade - INFO - -----------------------------
+2020-03-24 09:34:17,665 - Pade - INFO - decay
+2020-03-24 09:34:17,665 - Pade - INFO - False
+2020-03-24 09:34:17,665 - Pade - INFO - -----------------------------
+2020-03-24 09:34:17,665 - Pade - INFO - test_line
+2020-03-24 09:34:17,666 - Pade - INFO - False
+2020-03-24 09:34:17,666 - Pade - INFO - -----------------------------
+2020-03-24 09:34:17,666 - Pade - INFO - is_plot
+2020-03-24 09:34:17,666 - Pade - INFO - True
+2020-03-24 09:34:17,666 - Pade - INFO - -----------------------------
+2020-03-24 09:34:17,712 - Pade - INFO - openning sess
+2020-03-24 09:35:22,575 - Pade - INFO - now initialize the net with para:
+2020-03-24 09:35:22,575 - Pade - INFO - clip
+2020-03-24 09:35:22,575 - Pade - INFO - False
+2020-03-24 09:35:22,576 - Pade - INFO - -----------------------------
+2020-03-24 09:35:22,576 - Pade - INFO - CKPT
+2020-03-24 09:35:22,576 - Pade - INFO - ckpt
+2020-03-24 09:35:22,576 - Pade - INFO - -----------------------------
+2020-03-24 09:35:22,576 - Pade - INFO - BATCHSIZE
+2020-03-24 09:35:22,576 - Pade - INFO - 1000
+2020-03-24 09:35:22,576 - Pade - INFO - -----------------------------
+2020-03-24 09:35:22,576 - Pade - INFO - MAX_ITER
+2020-03-24 09:35:22,576 - Pade - INFO - 5000
+2020-03-24 09:35:22,576 - Pade - INFO - -----------------------------
+2020-03-24 09:35:22,576 - Pade - INFO - STEP_EACH_ITER
+2020-03-24 09:35:22,577 - Pade - INFO - 500
+2020-03-24 09:35:22,577 - Pade - INFO - -----------------------------
+2020-03-24 09:35:22,577 - Pade - INFO - STEP_SHOW
+2020-03-24 09:35:22,577 - Pade - INFO - 200
+2020-03-24 09:35:22,577 - Pade - INFO - -----------------------------
+2020-03-24 09:35:22,577 - Pade - INFO - EPOCH_SAVE
+2020-03-24 09:35:22,577 - Pade - INFO - 20
+2020-03-24 09:35:22,577 - Pade - INFO - -----------------------------
+2020-03-24 09:35:22,577 - Pade - INFO - LEARNING_RATE
+2020-03-24 09:35:22,577 - Pade - INFO - 8e-05
+2020-03-24 09:35:22,577 - Pade - INFO - -----------------------------
+2020-03-24 09:35:22,578 - Pade - INFO - bound_weight
+2020-03-24 09:35:22,578 - Pade - INFO - 1
+2020-03-24 09:35:22,578 - Pade - INFO - -----------------------------
+2020-03-24 09:35:22,578 - Pade - INFO - step_unbound
+2020-03-24 09:35:22,578 - Pade - INFO - 5
+2020-03-24 09:35:22,578 - Pade - INFO - -----------------------------
+2020-03-24 09:35:22,578 - Pade - INFO - decay
+2020-03-24 09:35:22,578 - Pade - INFO - False
+2020-03-24 09:35:22,578 - Pade - INFO - -----------------------------
+2020-03-24 09:35:22,578 - Pade - INFO - test_line
+2020-03-24 09:35:22,578 - Pade - INFO - False
+2020-03-24 09:35:22,579 - Pade - INFO - -----------------------------
+2020-03-24 09:35:22,579 - Pade - INFO - is_plot
+2020-03-24 09:35:22,579 - Pade - INFO - True
+2020-03-24 09:35:22,579 - Pade - INFO - -----------------------------
+2020-03-24 09:35:22,616 - Pade - INFO - openning sess
+2020-03-24 09:35:23,378 - Pade - INFO - building net
+2020-03-24 09:35:24,180 - Pade - INFO - building opt
+2020-03-24 09:35:24,343 - Pade - INFO - net initializing
+2020-03-24 09:35:24,343 - Pade - INFO - train epoch 0 of total 5000 epoches
+2020-03-24 09:35:25,001 - Pade - ERROR - loss 0.15085468358320514, in epoch 0, in step 199, in global step 200, learning rate is 8e-05, taks 0.6580002307891846 seconds
+2020-03-24 09:35:25,356 - Pade - ERROR - loss 0.06945957512530608, in epoch 0, in step 399, in global step 400, learning rate is 8e-05, taks 0.3549997806549072 seconds
+2020-03-24 09:35:25,528 - Pade - INFO - train epoch 1 of total 5000 epoches
+2020-03-24 09:35:25,863 - Pade - ERROR - loss 0.03770165526547616, in epoch 1, in step 199, in global step 700, learning rate is 8e-05, taks 0.5059998035430908 seconds
+2020-03-24 09:35:26,205 - Pade - ERROR - loss 0.02804104638256413, in epoch 1, in step 399, in global step 900, learning rate is 8e-05, taks 0.3410003185272217 seconds
+2020-03-24 09:35:26,391 - Pade - INFO - train epoch 2 of total 5000 epoches
+2020-03-24 09:35:26,749 - Pade - ERROR - loss 0.0180811550112279, in epoch 2, in step 199, in global step 1200, learning rate is 8e-05, taks 0.5429999828338623 seconds
+2020-03-24 09:35:27,105 - Pade - ERROR - loss 0.012208425355726665, in epoch 2, in step 399, in global step 1400, learning rate is 8e-05, taks 0.35500001907348633 seconds
+2020-03-24 09:35:27,298 - Pade - INFO - train epoch 3 of total 5000 epoches
+2020-03-24 09:35:27,678 - Pade - ERROR - loss 0.007074880064831252, in epoch 3, in step 199, in global step 1700, learning rate is 8e-05, taks 0.5729999542236328 seconds
+2020-03-24 09:35:28,034 - Pade - ERROR - loss 0.006624633615771023, in epoch 3, in step 399, in global step 1900, learning rate is 8e-05, taks 0.35500001907348633 seconds
+2020-03-24 09:35:28,208 - Pade - INFO - train epoch 4 of total 5000 epoches
+2020-03-24 09:35:28,579 - Pade - ERROR - loss 0.00656615351964245, in epoch 4, in step 199, in global step 2200, learning rate is 8e-05, taks 0.5450000762939453 seconds
+2020-03-24 09:35:28,930 - Pade - ERROR - loss 0.006550762972588367, in epoch 4, in step 399, in global step 2400, learning rate is 8e-05, taks 0.3510000705718994 seconds
+2020-03-24 09:35:29,108 - Pade - INFO - train epoch 5 of total 5000 epoches
+2020-03-24 09:35:29,474 - Pade - ERROR - loss 0.006525356786984662, in epoch 5, in step 199, in global step 2700, learning rate is 8e-05, taks 0.5439999103546143 seconds
+2020-03-24 09:35:29,834 - Pade - ERROR - loss 0.006506366295290691, in epoch 5, in step 399, in global step 2900, learning rate is 8e-05, taks 0.3600001335144043 seconds
+2020-03-24 09:35:30,016 - Pade - INFO - train epoch 6 of total 5000 epoches
+2020-03-24 09:35:30,377 - Pade - ERROR - loss 0.006474527604603598, in epoch 6, in step 199, in global step 3200, learning rate is 8e-05, taks 0.5429999828338623 seconds
+2020-03-24 09:35:30,755 - Pade - ERROR - loss 0.006450902300671141, in epoch 6, in step 399, in global step 3400, learning rate is 8e-05, taks 0.37799978256225586 seconds
+2020-03-24 09:35:30,936 - Pade - INFO - train epoch 7 of total 5000 epoches
+2020-03-24 09:35:31,297 - Pade - ERROR - loss 0.006411564939486753, in epoch 7, in step 199, in global step 3700, learning rate is 8e-05, taks 0.5420002937316895 seconds
+2020-03-24 09:35:31,672 - Pade - ERROR - loss 0.006382553741394711, in epoch 7, in step 399, in global step 3900, learning rate is 8e-05, taks 0.3749997615814209 seconds
+2020-03-24 09:35:31,854 - Pade - INFO - train epoch 8 of total 5000 epoches
+2020-03-24 09:35:32,215 - Pade - ERROR - loss 0.006334514582497764, in epoch 8, in step 199, in global step 4200, learning rate is 8e-05, taks 0.5429999828338623 seconds
+2020-03-24 09:35:32,580 - Pade - ERROR - loss 0.0062992572361415915, in epoch 8, in step 399, in global step 4400, learning rate is 8e-05, taks 0.3640000820159912 seconds
+2020-03-24 09:35:32,767 - Pade - INFO - train epoch 9 of total 5000 epoches
+2020-03-24 09:35:33,127 - Pade - ERROR - loss 0.006241116452517613, in epoch 9, in step 199, in global step 4700, learning rate is 8e-05, taks 0.5469999313354492 seconds
+2020-03-24 09:35:33,488 - Pade - ERROR - loss 0.006198585453368279, in epoch 9, in step 399, in global step 4900, learning rate is 8e-05, taks 0.36100006103515625 seconds
+2020-03-24 09:35:33,685 - Pade - INFO - train epoch 10 of total 5000 epoches
+2020-03-24 09:35:34,050 - Pade - ERROR - loss 0.006128602518656575, in epoch 10, in step 199, in global step 5200, learning rate is 8e-05, taks 0.562000036239624 seconds
+2020-03-24 09:35:34,415 - Pade - ERROR - loss 0.0060774530029889095, in epoch 10, in step 399, in global step 5400, learning rate is 8e-05, taks 0.36500000953674316 seconds
+2020-03-24 09:35:34,600 - Pade - INFO - train epoch 11 of total 5000 epoches
+2020-03-24 09:35:34,972 - Pade - ERROR - loss 0.006003511334566968, in epoch 11, in step 199, in global step 5700, learning rate is 8e-05, taks 0.556999921798706 seconds
+2020-03-24 09:35:35,333 - Pade - ERROR - loss 0.005951617347103951, in epoch 11, in step 399, in global step 5900, learning rate is 8e-05, taks 0.36100029945373535 seconds
+2020-03-24 09:35:35,518 - Pade - INFO - train epoch 12 of total 5000 epoches
+2020-03-24 09:35:35,892 - Pade - ERROR - loss 0.005872576892641032, in epoch 12, in step 199, in global step 6200, learning rate is 8e-05, taks 0.557999849319458 seconds
+2020-03-24 09:35:36,254 - Pade - ERROR - loss 0.005894759103993507, in epoch 12, in step 399, in global step 6400, learning rate is 8e-05, taks 0.36100006103515625 seconds
+2020-03-24 09:35:36,431 - Pade - INFO - train epoch 13 of total 5000 epoches
+2020-03-24 09:35:36,800 - Pade - ERROR - loss 0.0057275458494033624, in epoch 13, in step 199, in global step 6700, learning rate is 8e-05, taks 0.5460000038146973 seconds
+2020-03-24 09:35:37,186 - Pade - ERROR - loss 0.005665916203694576, in epoch 13, in step 399, in global step 6900, learning rate is 8e-05, taks 0.38499999046325684 seconds
+2020-03-24 09:35:37,367 - Pade - INFO - train epoch 14 of total 5000 epoches
+2020-03-24 09:35:37,732 - Pade - ERROR - loss 0.005565047440126831, in epoch 14, in step 199, in global step 7200, learning rate is 8e-05, taks 0.5449998378753662 seconds
+2020-03-24 09:35:38,108 - Pade - ERROR - loss 0.0054930964670433175, in epoch 14, in step 399, in global step 7400, learning rate is 8e-05, taks 0.37599992752075195 seconds
+2020-03-24 09:35:38,289 - Pade - INFO - train epoch 15 of total 5000 epoches
+2020-03-24 09:35:38,654 - Pade - ERROR - loss 0.005376739662892161, in epoch 15, in step 199, in global step 7700, learning rate is 8e-05, taks 0.5460002422332764 seconds
+2020-03-24 09:35:39,023 - Pade - ERROR - loss 0.005294087191718581, in epoch 15, in step 399, in global step 7900, learning rate is 8e-05, taks 0.3689999580383301 seconds
+2020-03-24 09:35:39,209 - Pade - INFO - train epoch 16 of total 5000 epoches
+2020-03-24 09:35:39,577 - Pade - ERROR - loss 0.005163377370473062, in epoch 16, in step 199, in global step 8200, learning rate is 8e-05, taks 0.5540001392364502 seconds
+2020-03-24 09:35:39,938 - Pade - ERROR - loss 0.005069443442579293, in epoch 16, in step 399, in global step 8400, learning rate is 8e-05, taks 0.3599998950958252 seconds
+2020-03-24 09:35:40,135 - Pade - INFO - train epoch 17 of total 5000 epoches
+2020-03-24 09:35:40,493 - Pade - ERROR - loss 0.004922647435441438, in epoch 17, in step 199, in global step 8700, learning rate is 8e-05, taks 0.5550000667572021 seconds
+2020-03-24 09:35:40,858 - Pade - ERROR - loss 0.004821172416467648, in epoch 17, in step 399, in global step 8900, learning rate is 8e-05, taks 0.3640000820159912 seconds
+2020-03-24 09:35:41,038 - Pade - INFO - train epoch 18 of total 5000 epoches
+2020-03-24 09:35:41,414 - Pade - ERROR - loss 0.004671586896118167, in epoch 18, in step 199, in global step 9200, learning rate is 8e-05, taks 0.5559999942779541 seconds
+2020-03-24 09:35:41,779 - Pade - ERROR - loss 0.0045544749986403624, in epoch 18, in step 399, in global step 9400, learning rate is 8e-05, taks 0.36500000953674316 seconds
+2020-03-24 09:35:41,959 - Pade - INFO - train epoch 19 of total 5000 epoches
+2020-03-24 09:35:42,331 - Pade - ERROR - loss 0.004374827042805166, in epoch 19, in step 199, in global step 9700, learning rate is 8e-05, taks 0.5519998073577881 seconds
+2020-03-24 09:35:42,697 - Pade - ERROR - loss 0.004256752608659027, in epoch 19, in step 399, in global step 9900, learning rate is 8e-05, taks 0.3660001754760742 seconds
+2020-03-24 09:35:49,362 - Pade - INFO - Model saved in path: ckpt_Pade in epoch 19. learning_rate is 8e-05, loss is 0.00419632225579792
+2020-03-24 09:35:49,365 - Pade - INFO - train epoch 20 of total 5000 epoches
+2020-03-24 09:35:50,239 - Pade - ERROR - loss 0.0040743560862299385, in epoch 20, in step 199, in global step 10200, learning rate is 8e-05, taks 7.541999816894531 seconds
+2020-03-24 09:35:50,745 - Pade - ERROR - loss 0.003951583169503687, in epoch 20, in step 399, in global step 10400, learning rate is 8e-05, taks 0.5050003528594971 seconds
+2020-03-24 09:35:50,991 - Pade - INFO - train epoch 21 of total 5000 epoches
+2020-03-24 09:35:51,504 - Pade - ERROR - loss 0.003771871037515757, in epoch 21, in step 199, in global step 10700, learning rate is 8e-05, taks 0.7589998245239258 seconds
+2020-03-24 09:35:52,004 - Pade - ERROR - loss 0.003704244398797894, in epoch 21, in step 399, in global step 10900, learning rate is 8e-05, taks 0.49899983406066895 seconds
+2020-03-24 09:35:52,264 - Pade - INFO - train epoch 22 of total 5000 epoches
+2020-03-24 09:35:52,773 - Pade - ERROR - loss 0.003450147026928068, in epoch 22, in step 199, in global step 11200, learning rate is 8e-05, taks 0.7679998874664307 seconds
+2020-03-24 09:35:53,269 - Pade - ERROR - loss 0.003312733485717842, in epoch 22, in step 399, in global step 11400, learning rate is 8e-05, taks 0.4960000514984131 seconds
+2020-03-24 09:35:53,539 - Pade - INFO - train epoch 23 of total 5000 epoches
+2020-03-24 09:35:54,069 - Pade - ERROR - loss 0.0031425415546131046, in epoch 23, in step 199, in global step 11700, learning rate is 8e-05, taks 0.7999999523162842 seconds
+2020-03-24 09:35:54,587 - Pade - ERROR - loss 0.0030072567824404447, in epoch 23, in step 399, in global step 11900, learning rate is 8e-05, taks 0.5169999599456787 seconds
+2020-03-24 09:35:54,842 - Pade - INFO - train epoch 24 of total 5000 epoches
+2020-03-24 09:35:55,339 - Pade - ERROR - loss 0.0028347611671979056, in epoch 24, in step 199, in global step 12200, learning rate is 8e-05, taks 0.751000165939331 seconds
+2020-03-24 09:35:55,848 - Pade - ERROR - loss 0.0027550850824462087, in epoch 24, in step 399, in global step 12400, learning rate is 8e-05, taks 0.5089998245239258 seconds
+2020-03-24 09:35:56,093 - Pade - INFO - train epoch 25 of total 5000 epoches
+2020-03-24 09:35:56,588 - Pade - ERROR - loss 0.002600297491684407, in epoch 25, in step 199, in global step 12700, learning rate is 8e-05, taks 0.7400000095367432 seconds
+2020-03-24 09:35:57,101 - Pade - ERROR - loss 0.0024440005263770444, in epoch 25, in step 399, in global step 12900, learning rate is 8e-05, taks 0.5120000839233398 seconds
+2020-03-24 09:35:57,352 - Pade - INFO - train epoch 26 of total 5000 epoches
+2020-03-24 09:35:57,865 - Pade - ERROR - loss 0.002677169045656388, in epoch 26, in step 199, in global step 13200, learning rate is 8e-05, taks 0.7639999389648438 seconds
+2020-03-24 09:35:58,364 - Pade - ERROR - loss 0.002566994955284296, in epoch 26, in step 399, in global step 13400, learning rate is 8e-05, taks 0.49899983406066895 seconds
+2020-03-24 09:35:58,614 - Pade - INFO - train epoch 27 of total 5000 epoches
+2020-03-24 09:35:59,125 - Pade - ERROR - loss 0.0030092669021877234, in epoch 27, in step 199, in global step 13700, learning rate is 8e-05, taks 0.7599999904632568 seconds
+2020-03-24 09:35:59,626 - Pade - ERROR - loss 0.0021187417554849185, in epoch 27, in step 399, in global step 13900, learning rate is 8e-05, taks 0.500999927520752 seconds
+2020-03-24 09:35:59,894 - Pade - INFO - train epoch 28 of total 5000 epoches
+2020-03-24 09:36:00,406 - Pade - ERROR - loss 0.002195034860337881, in epoch 28, in step 199, in global step 14200, learning rate is 8e-05, taks 0.7790000438690186 seconds
+2020-03-24 09:36:00,922 - Pade - ERROR - loss 0.0019999404796301524, in epoch 28, in step 399, in global step 14400, learning rate is 8e-05, taks 0.5160000324249268 seconds
+2020-03-24 09:36:01,194 - Pade - INFO - train epoch 29 of total 5000 epoches
+2020-03-24 09:36:01,699 - Pade - ERROR - loss 0.0017039786240315579, in epoch 29, in step 199, in global step 14700, learning rate is 8e-05, taks 0.7760000228881836 seconds
+2020-03-24 09:36:02,194 - Pade - ERROR - loss 0.0019539968349418743, in epoch 29, in step 399, in global step 14900, learning rate is 8e-05, taks 0.49500012397766113 seconds
+2020-03-24 09:36:02,463 - Pade - INFO - train epoch 30 of total 5000 epoches
+2020-03-24 09:36:02,962 - Pade - ERROR - loss 0.0016389287698479339, in epoch 30, in step 199, in global step 15200, learning rate is 8e-05, taks 0.7669999599456787 seconds
+2020-03-24 09:36:03,469 - Pade - ERROR - loss 0.0014479583100432004, in epoch 30, in step 399, in global step 15400, learning rate is 8e-05, taks 0.507000207901001 seconds
+2020-03-24 09:36:03,728 - Pade - INFO - train epoch 31 of total 5000 epoches
+2020-03-24 09:36:04,224 - Pade - ERROR - loss 0.001650876633248609, in epoch 31, in step 199, in global step 15700, learning rate is 8e-05, taks 0.7539999485015869 seconds
+2020-03-24 09:36:04,742 - Pade - ERROR - loss 0.0017420835770298603, in epoch 31, in step 399, in global step 15900, learning rate is 8e-05, taks 0.5170001983642578 seconds
+2020-03-24 09:36:04,993 - Pade - INFO - train epoch 32 of total 5000 epoches
+2020-03-24 09:36:05,489 - Pade - ERROR - loss 0.001469230469358596, in epoch 32, in step 199, in global step 16200, learning rate is 8e-05, taks 0.746999979019165 seconds
+2020-03-24 09:36:06,006 - Pade - ERROR - loss 0.0012630376950280259, in epoch 32, in step 399, in global step 16400, learning rate is 8e-05, taks 0.5160000324249268 seconds
+2020-03-24 09:36:06,253 - Pade - INFO - train epoch 33 of total 5000 epoches
+2020-03-24 09:36:06,755 - Pade - ERROR - loss 0.001126226029988894, in epoch 33, in step 199, in global step 16700, learning rate is 8e-05, taks 0.748999834060669 seconds
+2020-03-24 09:36:07,263 - Pade - ERROR - loss 0.0016250312681512285, in epoch 33, in step 399, in global step 16900, learning rate is 8e-05, taks 0.507000207901001 seconds
+2020-03-24 09:36:07,516 - Pade - INFO - train epoch 34 of total 5000 epoches
+2020-03-24 09:36:08,028 - Pade - ERROR - loss 0.0010357793203851792, in epoch 34, in step 199, in global step 17200, learning rate is 8e-05, taks 0.7649998664855957 seconds
+2020-03-24 09:36:08,524 - Pade - ERROR - loss 0.0011687735365107236, in epoch 34, in step 399, in global step 17400, learning rate is 8e-05, taks 0.4960000514984131 seconds
+2020-03-24 09:36:08,772 - Pade - INFO - train epoch 35 of total 5000 epoches
+2020-03-24 09:36:09,286 - Pade - ERROR - loss 0.0009977768966010494, in epoch 35, in step 199, in global step 17700, learning rate is 8e-05, taks 0.7609999179840088 seconds
+2020-03-24 09:36:09,791 - Pade - ERROR - loss 0.001050033275685693, in epoch 35, in step 399, in global step 17900, learning rate is 8e-05, taks 0.5049998760223389 seconds
+2020-03-24 09:36:10,052 - Pade - INFO - train epoch 36 of total 5000 epoches
+2020-03-24 09:36:10,564 - Pade - ERROR - loss 0.0009742418938972936, in epoch 36, in step 199, in global step 18200, learning rate is 8e-05, taks 0.7730000019073486 seconds
+2020-03-24 09:36:11,058 - Pade - ERROR - loss 0.0008560227286721983, in epoch 36, in step 399, in global step 18400, learning rate is 8e-05, taks 0.4940001964569092 seconds
+2020-03-24 09:36:11,322 - Pade - INFO - train epoch 37 of total 5000 epoches
+2020-03-24 09:36:11,817 - Pade - ERROR - loss 0.0008326204288099956, in epoch 37, in step 199, in global step 18700, learning rate is 8e-05, taks 0.7590000629425049 seconds
+2020-03-24 09:36:12,312 - Pade - ERROR - loss 0.0008795864270373992, in epoch 37, in step 399, in global step 18900, learning rate is 8e-05, taks 0.493999719619751 seconds
+2020-03-24 09:36:12,583 - Pade - INFO - train epoch 38 of total 5000 epoches
+2020-03-24 09:36:13,082 - Pade - ERROR - loss 0.0008418489589474968, in epoch 38, in step 199, in global step 19200, learning rate is 8e-05, taks 0.7680001258850098 seconds
+2020-03-24 09:36:13,598 - Pade - ERROR - loss 0.0008600386480518609, in epoch 38, in step 399, in global step 19400, learning rate is 8e-05, taks 0.5160000324249268 seconds
+2020-03-24 09:36:13,851 - Pade - INFO - train epoch 39 of total 5000 epoches
+2020-03-24 09:36:14,347 - Pade - ERROR - loss 0.0006582563852292939, in epoch 39, in step 199, in global step 19700, learning rate is 8e-05, taks 0.747999906539917 seconds
+2020-03-24 09:36:14,861 - Pade - ERROR - loss 0.000688823784399088, in epoch 39, in step 399, in global step 19900, learning rate is 8e-05, taks 0.5140001773834229 seconds
+2020-03-24 09:36:19,595 - Pade - INFO - Model saved in path: ckpt_Pade in epoch 39. learning_rate is 8e-05, loss is 0.0021788412159795094
+2020-03-24 09:36:19,597 - Pade - INFO - train epoch 40 of total 5000 epoches
+2020-03-24 09:36:20,580 - Pade - ERROR - loss 0.000660095290034534, in epoch 40, in step 199, in global step 20200, learning rate is 8e-05, taks 5.7179999351501465 seconds
+2020-03-24 09:36:21,308 - Pade - ERROR - loss 0.0006062999284102737, in epoch 40, in step 399, in global step 20400, learning rate is 8e-05, taks 0.7279999256134033 seconds
+2020-03-24 09:36:21,671 - Pade - INFO - train epoch 41 of total 5000 epoches
+2020-03-24 09:36:22,212 - Pade - ERROR - loss 0.000584231388337425, in epoch 41, in step 199, in global step 20700, learning rate is 8e-05, taks 0.9040000438690186 seconds
+2020-03-24 09:36:22,732 - Pade - ERROR - loss 0.0005778184768498099, in epoch 41, in step 399, in global step 20900, learning rate is 8e-05, taks 0.5199999809265137 seconds
+2020-03-24 09:36:22,980 - Pade - INFO - train epoch 42 of total 5000 epoches
+2020-03-24 09:36:23,479 - Pade - ERROR - loss 0.0009953657855729181, in epoch 42, in step 199, in global step 21200, learning rate is 8e-05, taks 0.746999979019165 seconds

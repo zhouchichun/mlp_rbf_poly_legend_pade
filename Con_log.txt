@@ -1,0 +1,176 @@
+2020-02-27 16:38:01,948 - Con - INFO - now initialize the net with para:
+2020-02-27 16:38:01,948 - Con - INFO - clip
+2020-02-27 16:38:01,949 - Con - INFO - 0.05
+2020-02-27 16:38:01,949 - Con - INFO - -----------------------------
+2020-02-27 16:38:01,949 - Con - INFO - CKPT
+2020-02-27 16:38:01,949 - Con - INFO - ckpt
+2020-02-27 16:38:01,949 - Con - INFO - -----------------------------
+2020-02-27 16:38:01,949 - Con - INFO - BATCHSIZE
+2020-02-27 16:38:01,949 - Con - INFO - 1000
+2020-02-27 16:38:01,949 - Con - INFO - -----------------------------
+2020-02-27 16:38:01,949 - Con - INFO - MAX_ITER
+2020-02-27 16:38:01,949 - Con - INFO - 5000
+2020-02-27 16:38:01,949 - Con - INFO - -----------------------------
+2020-02-27 16:38:01,950 - Con - INFO - STEP_EACH_ITER
+2020-02-27 16:38:01,950 - Con - INFO - 500
+2020-02-27 16:38:01,950 - Con - INFO - -----------------------------
+2020-02-27 16:38:01,950 - Con - INFO - STEP_SHOW
+2020-02-27 16:38:01,950 - Con - INFO - 200
+2020-02-27 16:38:01,950 - Con - INFO - -----------------------------
+2020-02-27 16:38:01,950 - Con - INFO - EPOCH_SAVE
+2020-02-27 16:38:01,950 - Con - INFO - 2
+2020-02-27 16:38:01,950 - Con - INFO - -----------------------------
+2020-02-27 16:38:01,950 - Con - INFO - LEARNING_RATE
+2020-02-27 16:38:01,950 - Con - INFO - 0.0001
+2020-02-27 16:38:01,950 - Con - INFO - -----------------------------
+2020-02-27 16:38:01,950 - Con - INFO - bound_weight
+2020-02-27 16:38:01,950 - Con - INFO - 10000
+2020-02-27 16:38:01,950 - Con - INFO - -----------------------------
+2020-02-27 16:38:01,951 - Con - INFO - decay
+2020-02-27 16:38:01,951 - Con - INFO - False
+2020-02-27 16:38:01,951 - Con - INFO - -----------------------------
+2020-02-27 16:38:01,951 - Con - INFO - test_line
+2020-02-27 16:38:01,951 - Con - INFO - False
+2020-02-27 16:38:01,951 - Con - INFO - -----------------------------
+2020-02-27 16:38:01,951 - Con - INFO - is_plot
+2020-02-27 16:38:01,951 - Con - INFO - True
+2020-02-27 16:38:01,951 - Con - INFO - -----------------------------
+2020-02-27 16:38:01,980 - Con - INFO - openning sess
+2020-02-27 16:38:06,264 - Con - INFO - building net
+2020-02-27 16:38:19,318 - Con - INFO - building opt
+2020-02-27 16:38:20,291 - Con - INFO - init from ckpt 
+2020-02-27 16:38:20,291 - Con - INFO - net initializing
+2020-02-27 16:38:20,292 - Con - INFO - train epoch 0 of total 5000 epoches
+2020-02-27 16:38:27,877 - Con - ERROR - loss 3.2025574246093065, in epoch 0, in step 199, in global step 920200, learning rate is 0.0001, taks 7.585999965667725 seconds
+2020-02-27 16:38:29,321 - Con - ERROR - loss 3.2078650489417018, in epoch 0, in step 399, in global step 920400, learning rate is 0.0001, taks 1.443000078201294 seconds
+2020-02-27 16:38:30,073 - Con - INFO - train epoch 1 of total 5000 epoches
+2020-02-27 16:38:31,615 - Con - ERROR - loss 3.2012234799024384, in epoch 1, in step 199, in global step 920700, learning rate is 0.0001, taks 2.2929999828338623 seconds
+2020-02-27 16:38:33,136 - Con - ERROR - loss 3.231896184734465, in epoch 1, in step 399, in global step 920900, learning rate is 0.0001, taks 1.5199999809265137 seconds
+2020-02-27 16:41:52,834 - Con - INFO - Model saved in path: ckpt_Con in epoch 1. learning_rate is 0.0001, loss is 3.1937352368976097
+2020-02-27 16:41:52,835 - Con - INFO - train epoch 2 of total 5000 epoches
+2020-02-27 16:41:55,659 - Con - ERROR - loss 3.2068829571273603, in epoch 2, in step 199, in global step 921200, learning rate is 0.0001, taks 202.52300000190735 seconds
+2020-03-24 09:46:04,609 - Con - INFO - now initialize the net with para:
+2020-03-24 09:46:04,615 - Con - INFO - clip
+2020-03-24 09:46:04,615 - Con - INFO - False
+2020-03-24 09:46:04,615 - Con - INFO - -----------------------------
+2020-03-24 09:46:04,615 - Con - INFO - CKPT
+2020-03-24 09:46:04,615 - Con - INFO - ckpt
+2020-03-24 09:46:04,615 - Con - INFO - -----------------------------
+2020-03-24 09:46:04,615 - Con - INFO - BATCHSIZE
+2020-03-24 09:46:04,616 - Con - INFO - 1000
+2020-03-24 09:46:04,616 - Con - INFO - -----------------------------
+2020-03-24 09:46:04,616 - Con - INFO - MAX_ITER
+2020-03-24 09:46:04,616 - Con - INFO - 5000
+2020-03-24 09:46:04,616 - Con - INFO - -----------------------------
+2020-03-24 09:46:04,616 - Con - INFO - STEP_EACH_ITER
+2020-03-24 09:46:04,616 - Con - INFO - 500
+2020-03-24 09:46:04,616 - Con - INFO - -----------------------------
+2020-03-24 09:46:04,616 - Con - INFO - STEP_SHOW
+2020-03-24 09:46:04,616 - Con - INFO - 200
+2020-03-24 09:46:04,616 - Con - INFO - -----------------------------
+2020-03-24 09:46:04,616 - Con - INFO - EPOCH_SAVE
+2020-03-24 09:46:04,617 - Con - INFO - 20
+2020-03-24 09:46:04,617 - Con - INFO - -----------------------------
+2020-03-24 09:46:04,617 - Con - INFO - LEARNING_RATE
+2020-03-24 09:46:04,617 - Con - INFO - 8e-05
+2020-03-24 09:46:04,617 - Con - INFO - -----------------------------
+2020-03-24 09:46:04,617 - Con - INFO - bound_weight
+2020-03-24 09:46:04,617 - Con - INFO - 1
+2020-03-24 09:46:04,617 - Con - INFO - -----------------------------
+2020-03-24 09:46:04,617 - Con - INFO - step_unbound
+2020-03-24 09:46:04,617 - Con - INFO - 5
+2020-03-24 09:46:04,617 - Con - INFO - -----------------------------
+2020-03-24 09:46:04,617 - Con - INFO - decay
+2020-03-24 09:46:04,617 - Con - INFO - False
+2020-03-24 09:46:04,618 - Con - INFO - -----------------------------
+2020-03-24 09:46:04,618 - Con - INFO - test_line
+2020-03-24 09:46:04,618 - Con - INFO - False
+2020-03-24 09:46:04,618 - Con - INFO - -----------------------------
+2020-03-24 09:46:04,618 - Con - INFO - is_plot
+2020-03-24 09:46:04,618 - Con - INFO - True
+2020-03-24 09:46:04,618 - Con - INFO - -----------------------------
+2020-03-24 09:46:04,655 - Con - INFO - openning sess
+2020-03-24 09:46:08,894 - Con - INFO - building net
+2020-03-24 09:46:12,262 - Con - INFO - building opt
+2020-03-24 09:46:12,789 - Con - INFO - net initializing
+2020-03-24 09:46:12,789 - Con - INFO - train epoch 0 of total 5000 epoches
+2020-03-24 09:46:14,830 - Con - ERROR - loss 164.4219188594563, in epoch 0, in step 199, in global step 200, learning rate is 8e-05, taks 2.0409998893737793 seconds
+2020-03-24 09:46:15,603 - Con - ERROR - loss 136.53913979891576, in epoch 0, in step 399, in global step 400, learning rate is 8e-05, taks 0.7730000019073486 seconds
+2020-03-24 09:46:15,976 - Con - INFO - train epoch 1 of total 5000 epoches
+2020-03-24 09:46:16,599 - Con - ERROR - loss 104.50735067707699, in epoch 1, in step 199, in global step 700, learning rate is 8e-05, taks 0.9950001239776611 seconds
+2020-03-24 09:46:17,215 - Con - ERROR - loss 87.68639883578675, in epoch 1, in step 399, in global step 900, learning rate is 8e-05, taks 0.6150000095367432 seconds
+2020-03-24 09:46:17,539 - Con - INFO - train epoch 2 of total 5000 epoches
+2020-03-24 09:46:18,128 - Con - ERROR - loss 67.5029467976725, in epoch 2, in step 199, in global step 1200, learning rate is 8e-05, taks 0.9129998683929443 seconds
+2020-03-24 09:46:18,690 - Con - ERROR - loss 56.69257279638847, in epoch 2, in step 399, in global step 1400, learning rate is 8e-05, taks 0.5620002746582031 seconds
+2020-03-24 09:46:18,935 - Con - INFO - train epoch 3 of total 5000 epoches
+2020-03-24 09:46:19,399 - Con - ERROR - loss 43.51566312912487, in epoch 3, in step 199, in global step 1700, learning rate is 8e-05, taks 0.7089998722076416 seconds
+2020-03-24 09:46:19,881 - Con - ERROR - loss 36.35517814908139, in epoch 3, in step 399, in global step 1900, learning rate is 8e-05, taks 0.4810001850128174 seconds
+2020-03-24 09:46:20,115 - Con - INFO - train epoch 4 of total 5000 epoches
+2020-03-24 09:46:20,565 - Con - ERROR - loss 27.775956302235397, in epoch 4, in step 199, in global step 2200, learning rate is 8e-05, taks 0.6830000877380371 seconds
+2020-03-24 09:46:21,039 - Con - ERROR - loss 23.09267130911776, in epoch 4, in step 399, in global step 2400, learning rate is 8e-05, taks 0.4739999771118164 seconds
+2020-03-24 09:46:21,263 - Con - INFO - train epoch 5 of total 5000 epoches
+2020-03-24 09:46:21,738 - Con - ERROR - loss 17.33935424936995, in epoch 5, in step 199, in global step 2700, learning rate is 8e-05, taks 0.6989998817443848 seconds
+2020-03-24 09:46:22,180 - Con - ERROR - loss 14.21786228323412, in epoch 5, in step 399, in global step 2900, learning rate is 8e-05, taks 0.4419999122619629 seconds
+2020-03-24 09:46:22,405 - Con - INFO - train epoch 6 of total 5000 epoches
+2020-03-24 09:46:22,867 - Con - ERROR - loss 10.418823312599848, in epoch 6, in step 199, in global step 3200, learning rate is 8e-05, taks 0.687000036239624 seconds
+2020-03-24 09:46:23,319 - Con - ERROR - loss 8.384884432523158, in epoch 6, in step 399, in global step 3400, learning rate is 8e-05, taks 0.45200014114379883 seconds
+2020-03-24 09:46:23,549 - Con - INFO - train epoch 7 of total 5000 epoches
+2020-03-24 09:46:24,016 - Con - ERROR - loss 5.953874847753475, in epoch 7, in step 199, in global step 3700, learning rate is 8e-05, taks 0.6969997882843018 seconds
+2020-03-24 09:46:24,468 - Con - ERROR - loss 4.683482088456703, in epoch 7, in step 399, in global step 3900, learning rate is 8e-05, taks 0.45200014114379883 seconds
+2020-03-24 09:46:24,700 - Con - INFO - train epoch 8 of total 5000 epoches
+2020-03-24 09:46:25,188 - Con - ERROR - loss 3.210768450161943, in epoch 8, in step 199, in global step 4200, learning rate is 8e-05, taks 0.7200000286102295 seconds
+2020-03-24 09:46:25,662 - Con - ERROR - loss 2.477925283490091, in epoch 8, in step 399, in global step 4400, learning rate is 8e-05, taks 0.4739999771118164 seconds
+2020-03-24 09:46:25,885 - Con - INFO - train epoch 9 of total 5000 epoches
+2020-03-24 09:46:26,337 - Con - ERROR - loss 1.68066398134213, in epoch 9, in step 199, in global step 4700, learning rate is 8e-05, taks 0.6740002632141113 seconds
+2020-03-24 09:46:26,791 - Con - ERROR - loss 1.2927108076754834, in epoch 9, in step 399, in global step 4900, learning rate is 8e-05, taks 0.45399975776672363 seconds
+2020-03-24 09:46:27,018 - Con - INFO - train epoch 10 of total 5000 epoches
+2020-03-24 09:46:27,470 - Con - ERROR - loss 0.8789387653126495, in epoch 10, in step 199, in global step 5200, learning rate is 8e-05, taks 0.6790001392364502 seconds
+2020-03-24 09:46:27,922 - Con - ERROR - loss 0.6903074598442319, in epoch 10, in step 399, in global step 5400, learning rate is 8e-05, taks 0.4519999027252197 seconds
+2020-03-24 09:46:28,149 - Con - INFO - train epoch 11 of total 5000 epoches
+2020-03-24 09:46:28,595 - Con - ERROR - loss 0.5008609304439121, in epoch 11, in step 199, in global step 5700, learning rate is 8e-05, taks 0.6730000972747803 seconds
+2020-03-24 09:46:29,051 - Con - ERROR - loss 0.41867906695303597, in epoch 11, in step 399, in global step 5900, learning rate is 8e-05, taks 0.45599985122680664 seconds
+2020-03-24 09:46:29,281 - Con - INFO - train epoch 12 of total 5000 epoches
+2020-03-24 09:46:29,726 - Con - ERROR - loss 0.3369851617679899, in epoch 12, in step 199, in global step 6200, learning rate is 8e-05, taks 0.6750001907348633 seconds
+2020-03-24 09:46:30,180 - Con - ERROR - loss 0.29977526972965457, in epoch 12, in step 399, in global step 6400, learning rate is 8e-05, taks 0.45399975776672363 seconds
+2020-03-24 09:46:30,405 - Con - INFO - train epoch 13 of total 5000 epoches
+2020-03-24 09:46:30,853 - Con - ERROR - loss 0.25743960409289485, in epoch 13, in step 199, in global step 6700, learning rate is 8e-05, taks 0.6730003356933594 seconds
+2020-03-24 09:46:31,307 - Con - ERROR - loss 0.23468899722527223, in epoch 13, in step 399, in global step 6900, learning rate is 8e-05, taks 0.45399975776672363 seconds
+2020-03-24 09:46:31,534 - Con - INFO - train epoch 14 of total 5000 epoches
+2020-03-24 09:46:31,975 - Con - ERROR - loss 0.20477282097477073, in epoch 14, in step 199, in global step 7200, learning rate is 8e-05, taks 0.6679999828338623 seconds
+2020-03-24 09:46:32,433 - Con - ERROR - loss 0.18639984090604955, in epoch 14, in step 399, in global step 7400, learning rate is 8e-05, taks 0.4570002555847168 seconds
+2020-03-24 09:46:32,658 - Con - INFO - train epoch 15 of total 5000 epoches
+2020-03-24 09:46:33,117 - Con - ERROR - loss 0.16114860522180027, in epoch 15, in step 199, in global step 7700, learning rate is 8e-05, taks 0.6840000152587891 seconds
+2020-03-24 09:46:33,568 - Con - ERROR - loss 0.1460965871311814, in epoch 15, in step 399, in global step 7900, learning rate is 8e-05, taks 0.45099973678588867 seconds
+2020-03-24 09:46:33,807 - Con - INFO - train epoch 16 of total 5000 epoches
+2020-03-24 09:46:34,264 - Con - ERROR - loss 0.12556330973691182, in epoch 16, in step 199, in global step 8200, learning rate is 8e-05, taks 0.6960000991821289 seconds
+2020-03-24 09:46:34,722 - Con - ERROR - loss 0.1128780662870963, in epoch 16, in step 399, in global step 8400, learning rate is 8e-05, taks 0.4570000171661377 seconds
+2020-03-24 09:46:34,946 - Con - INFO - train epoch 17 of total 5000 epoches
+2020-03-24 09:46:35,404 - Con - ERROR - loss 0.09590354824523682, in epoch 17, in step 199, in global step 8700, learning rate is 8e-05, taks 0.680999755859375 seconds
+2020-03-24 09:46:35,855 - Con - ERROR - loss 0.0854289710602657, in epoch 17, in step 399, in global step 8900, learning rate is 8e-05, taks 0.4500000476837158 seconds
+2020-03-24 09:46:36,089 - Con - INFO - train epoch 18 of total 5000 epoches
+2020-03-24 09:46:36,525 - Con - ERROR - loss 0.07041505898176431, in epoch 18, in step 199, in global step 9200, learning rate is 8e-05, taks 0.6690001487731934 seconds
+2020-03-24 09:46:36,990 - Con - ERROR - loss 0.06041096172457788, in epoch 18, in step 399, in global step 9400, learning rate is 8e-05, taks 0.4649999141693115 seconds
+2020-03-24 09:46:37,212 - Con - INFO - train epoch 19 of total 5000 epoches
+2020-03-24 09:46:37,681 - Con - ERROR - loss 0.04424280526857404, in epoch 19, in step 199, in global step 9700, learning rate is 8e-05, taks 0.6909999847412109 seconds
+2020-03-24 09:46:38,118 - Con - ERROR - loss 0.03162517906680799, in epoch 19, in step 399, in global step 9900, learning rate is 8e-05, taks 0.437000036239624 seconds
+2020-03-24 09:46:49,826 - Con - INFO - Model saved in path: ckpt_Con in epoch 19. learning_rate is 8e-05, loss is 0.024285115012650686
+2020-03-24 09:46:49,827 - Con - INFO - train epoch 20 of total 5000 epoches
+2020-03-24 09:46:51,458 - Con - ERROR - loss 0.011813440154766798, in epoch 20, in step 199, in global step 10200, learning rate is 8e-05, taks 13.339999914169312 seconds
+2020-03-24 09:46:52,490 - Con - ERROR - loss 0.00952599666882709, in epoch 20, in step 399, in global step 10400, learning rate is 8e-05, taks 1.0310001373291016 seconds
+2020-03-24 09:46:52,986 - Con - INFO - train epoch 21 of total 5000 epoches
+2020-03-24 09:46:53,897 - Con - ERROR - loss 0.007578248600561319, in epoch 21, in step 199, in global step 10700, learning rate is 8e-05, taks 1.4070000648498535 seconds
+2020-03-24 09:46:54,744 - Con - ERROR - loss 0.006802259432410153, in epoch 21, in step 399, in global step 10900, learning rate is 8e-05, taks 0.8459999561309814 seconds
+2020-03-24 09:46:55,163 - Con - INFO - train epoch 22 of total 5000 epoches
+2020-03-24 09:46:55,899 - Con - ERROR - loss 0.006009879449382124, in epoch 22, in step 199, in global step 11200, learning rate is 8e-05, taks 1.1549999713897705 seconds
+2020-03-24 09:46:56,614 - Con - ERROR - loss 0.005617305453852913, in epoch 22, in step 399, in global step 11400, learning rate is 8e-05, taks 0.7150001525878906 seconds
+2020-03-24 09:46:56,956 - Con - INFO - train epoch 23 of total 5000 epoches
+2020-03-24 09:46:57,665 - Con - ERROR - loss 0.005145400439675619, in epoch 23, in step 199, in global step 11700, learning rate is 8e-05, taks 1.0509998798370361 seconds
+2020-03-24 09:46:58,384 - Con - ERROR - loss 0.004884129091844307, in epoch 23, in step 399, in global step 11900, learning rate is 8e-05, taks 0.7179999351501465 seconds
+2020-03-24 09:46:58,742 - Con - INFO - train epoch 24 of total 5000 epoches
+2020-03-24 09:46:59,409 - Con - ERROR - loss 0.0045454568775807214, in epoch 24, in step 199, in global step 12200, learning rate is 8e-05, taks 1.0250003337860107 seconds
+2020-03-24 09:47:00,079 - Con - ERROR - loss 0.004343426865345016, in epoch 24, in step 399, in global step 12400, learning rate is 8e-05, taks 0.6699998378753662 seconds
+2020-03-24 09:47:00,416 - Con - INFO - train epoch 25 of total 5000 epoches
+2020-03-24 09:47:01,103 - Con - ERROR - loss 0.004060100854261835, in epoch 25, in step 199, in global step 12700, learning rate is 8e-05, taks 1.0230000019073486 seconds
+2020-03-24 09:47:01,771 - Con - ERROR - loss 0.003876706826625686, in epoch 25, in step 399, in global step 12900, learning rate is 8e-05, taks 0.6670000553131104 seconds
+2020-03-24 09:47:02,121 - Con - INFO - train epoch 26 of total 5000 epoches
+2020-03-24 09:47:02,799 - Con - ERROR - loss 0.003595249469888802, in epoch 26, in step 199, in global step 13200, learning rate is 8e-05, taks 1.0280001163482666 seconds
