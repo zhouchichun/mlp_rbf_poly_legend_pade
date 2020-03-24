@@ -43,12 +43,12 @@
   - 设置训练参数，如 batch size，step to show， is plot等
   
 
-- 运行主文件  python3 main.py  MLP 
-             python3 main.py  RBF
-             python3 main.py  Poly
-             python3 main.py  Leg
-             python3 main.py  Pade
-             python3 main.py  Com
+- 运行主文件  python3 main.py  MLP  </br>
+             python3 main.py  RBF </br>
+             python3 main.py  Poly</br>
+             python3 main.py  Leg </br>
+             python3 main.py  Pade </br>
+             python3 main.py  Com </br>
              
 - 自定义任务。配置main.py函数中 build_net 函数,
 ```
