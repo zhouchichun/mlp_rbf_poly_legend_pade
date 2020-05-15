@@ -1,3 +1,5 @@
+该项目是论文 “The Pade Approximant Based Network for Variational Problems” 的实现（arXiv:2004.00711）
+
 # mlp_rbf_poly_legend_pade
 
 - 万能近似性质，保证了神经网络可以拟合、搜索目标函数。
